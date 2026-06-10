@@ -1,2 +1,13 @@
 # ignore dataset files
-.csv
+loan_approval_data.csv
+smartcart_customers.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS code temporary jupyter files
+.virtual_documents/
+
+# Python cache
+__pycache__/
+*.pyc
